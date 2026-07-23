@@ -81,7 +81,7 @@ The goal of this repository is to improve problem-solving skills, strengthen DSA
 
 | Platform | Problems Solved |
 |----------|----------------:|
-| LeetCode | XX |
+| LeetCode | 3614 Process String with Special Operations II |
 | GeeksforGeeks | Computing Power  |
 | **Total** | **XX** |
 
