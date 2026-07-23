@@ -82,7 +82,7 @@ The goal of this repository is to improve problem-solving skills, strengthen DSA
 | Platform | Problems Solved |
 |----------|----------------:|
 | LeetCode | XX |
-| GeeksforGeeks | XX |
+| GeeksforGeeks | Computing Power  |
 | **Total** | **XX** |
 
 ---
